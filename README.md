@@ -2,7 +2,7 @@
 
 My first project in english all based on Janice class
 
-[Mario Jump](http://mariojump.herokuapp.com/) is a web application inspired by **Doodle Jump** using Mario theme. It is built using Vanilla Javascript, Canvas and HTML/CSS only.
+[Mario Jump] is a web application inspired by **Doodle Jump** using Mario theme. It is built using Vanilla Javascript, Canvas and HTML/CSS only.
 
 ## Mario Jump Rules:
 
